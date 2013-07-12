@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<bankaccount id='1' account_number='123' description='savings 1' balance='100.0'/>
+
+    <tb_transaction id='1' accountNumber='123' time_Stamp='1300' amount="1300" description='Deposit'/>
+    <tb_transaction id='2' accountNumber='123' time_Stamp='1400' amount="1400" description='Deposit'/>
+    <tb_transaction id='3' accountNumber='123' time_Stamp='1500' amount="1500" description='Deposit'/>
+    <tb_transaction id='4' accountNumber='123' time_Stamp='1600' amount="1600" description='Deposit'/>
+    <tb_transaction id='5' accountNumber='123' time_Stamp='1700' amount="1700" description='Deposit'/>
+</dataset>
